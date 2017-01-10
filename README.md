@@ -1,2 +1,2 @@
 # hello-world
-first project
+This is Gopu and checking in first project_p2
